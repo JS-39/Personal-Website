@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: youssefelsabbgh.ml
+Token: 748c78e08ffcfebbabd5875cca5d4b62dfe7b3e447271ef2e6cb50fc57508931
